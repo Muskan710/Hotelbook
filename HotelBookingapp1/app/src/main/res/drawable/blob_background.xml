@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="600dp"
+    android:viewportWidth="400"
+    android:viewportHeight="600">
+
+    <!-- Large blob shape -->
+    <path
+        android:pathData="M80,120 C120,80 180,90 220,130 C260,170 250,220 280,260 C310,300 290,350 250,380 C210,410 160,400 120,370 C80,340 50,300 40,250 C30,200 40,160 80,120 Z"
+        android:fillColor="#E8E4FF"
+        android:fillAlpha="0.3" />
+
+    <!-- Medium blob shape -->
+    <path
+        android:pathData="M200,200 C240,160 300,170 340,210 C380,250 370,300 350,340 C330,380 280,390 230,370 C180,350 160,300 170,250 C180,200 160,180 200,200 Z"
+        android:fillColor="#DDD6FE"
+        android:fillAlpha="0.4" />
+
+    <!-- Small blob shape -->
+    <path
+        android:pathData="M150,350 C180,320 220,330 250,360 C280,390 270,430 240,450 C210,470 170,460 140,430 C110,400 120,360 150,350 Z"
+        android:fillColor="#C4B5FD"
+        android:fillAlpha="0.2" />
+
+    <!-- Additional small blob -->
+    <path
+        android:pathData="M300,100 C320,80 350,85 370,105 C390,125 385,155 365,175 C345,195 315,190 295,170 C275,150 280,120 300,100 Z"
+        android:fillColor="#A78BFA"
+        android:fillAlpha="0.25" />
+
+    <!-- Extra decorative blob -->
+    <path
+        android:pathData="M50,450 C80,430 120,440 150,470 C180,500 170,540 140,560 C110,580 70,570 40,540 C10,510 20,470 50,450 Z"
+        android:fillColor="#E8E4FF"
+        android:fillAlpha="0.2" />
+
+    <!-- Tiny accent blob -->
+    <path
+        android:pathData="M320,400 C340,385 365,390 380,410 C395,430 390,455 370,470 C350,485 325,480 310,460 C295,440 300,415 320,400 Z"
+        android:fillColor="#DDD6FE"
+        android:fillAlpha="0.3" />
+
+</vector>
